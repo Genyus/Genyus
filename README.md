@@ -11,7 +11,7 @@ I'm a co-lead of [Black Devs UK](https://www.blackdevs.uk), a support network fo
 
 I'm a mentor, instructor and team member of [Black Codher](https://www.blackcodher.com), a coding bootcamp that trains Black women to transition into software development careers
 
-#### Still want to know more more? OK, fine
+#### What's that? You still want to know more? 🧐 OK, fine 😄
 - 👨🏾‍💻 I speak Bash, C#, CSS, HTML, Javascript, Powershell, PHP, SQL
 - 🧰 I use Apache, Azure DevOps, CircleCI, Composer, GitHub, Hugo, IIS, MongoDB, MySQL, nginx, NodeJS, npm, SQL Server, Telligent Server, WordPress
 - 📚 I’m currently learning React and Python
