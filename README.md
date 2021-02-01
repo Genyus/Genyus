@@ -1,9 +1,9 @@
-### console.log('Hello World! 👋🏾')
+### console.log('Hello World!')
 
-Hi, I'm Gary!
+Hi there! 👋🏾
 
 #### Who am I?
-I'm a tech developer, founder, speaker and educator based in London, UK.
+I'm Gary, a tech developer, founder, speaker and educator based in London, UK.
 
 I'm the founder of [Frocentric](https://www.frocentric.org), a social enterprise building safe, sustainable and progressive spaces for specific communities across the African diaspora. We're currently working on [Froware](https://www.froware.com), a community platform for Black technology professionals
 
