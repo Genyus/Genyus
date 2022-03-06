@@ -19,3 +19,11 @@ Aaaand, I'm a mentor, instructor and team member of [Black Codher](https://www.b
 - 📫 Reach me at [my website](https://ingenyus.com) or [LinkedIn](http://linkedin.com/in/garymcpherson00/)
 
 Thanks for stopping by, happy coding!
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Genyus&count_private=true&show_icons=true&theme=dark" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genyus&theme=dark&hide=CSS" />
+</a>
