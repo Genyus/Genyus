@@ -16,10 +16,10 @@ I'm an instructor, student mentor and technical advisor at [Coding Black Females
 Thanks for stopping by, happy coding!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Genyus&count_private=true&show_icons=true&theme=dark" />
+  <img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Genyus&count_private=true&show_icons=true&theme=dark" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genyus&theme=dark&hide=CSS" />
+  <img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Genyus&theme=dark&hide=CSS" />
 </a>
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
