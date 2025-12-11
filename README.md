@@ -8,11 +8,10 @@ I'm Gary, a tech developer, founder, speaker and educator based in London, UK. I
 I'm an instructor, student mentor and technical advisor at [Coding Black Females](https://www.codingblackfemales.com), a UK based community dedicated to training and supporting Black women across the tech industry.
 
 #### What's that? You still want to know more? 🧐 OK, fine 😄
-- 👨🏾‍💻 I speak Bash, C#, CSS, HTML, Javascript, Powershell, PHP, SQL
-- 🧰 I use Apache, Azure DevOps, CircleCI, Composer, GitHub, Hugo, IIS, MongoDB, MySQL, nginx, NodeJS, npm, SQL Server, Telligent Server, WordPress
+- 👨🏾‍💻 I speak Bash, C#, CSS, HTML, Javascript, Powershell, PHP, SQL and Typescript
+- 🧰 I use Apache, Composer, git, MySQL, nginx, NodeJS, npm, PostgreSQL, Wasp and WordPress
 - 📚 I’m currently learning React and Python
 - 💬 Ask me about tech/business consultancy, speaking or facilitating
-- 📫 Reach me at [my website](https://ingenyus.com) or [LinkedIn](http://linkedin.com/in/garymcpherson00/)
 
 Thanks for stopping by, happy coding!
 
